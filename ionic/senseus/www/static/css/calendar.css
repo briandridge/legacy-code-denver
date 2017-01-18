@@ -31,6 +31,10 @@
     flex-direction: row;
 }
 
+/*#week-calendar {
+    margin-top: 55px;
+}*/
+
 #calendar-header-right {
     flex: 1 1 75%;
     align-items: flex-end;
